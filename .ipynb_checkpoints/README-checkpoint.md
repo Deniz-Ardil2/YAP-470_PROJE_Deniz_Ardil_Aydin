@@ -79,5 +79,5 @@ Not: 2 veri setinde bulunan sınıflar ortaktır.
 
 ## 📌 Önemli Not
 - Eğitim ve test verileri ayrı tutulmuştur.
-- İlgili jupyter dosyasında eğitim ve test verilerinin boyutunu gösteren açık 
+- İlgili jupyter dosyasında eğitim ve test verilerinin boyutunu gösteren açıklamalar vardır 
 

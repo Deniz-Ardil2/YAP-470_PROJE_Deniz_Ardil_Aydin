@@ -4,8 +4,9 @@
 Bu projede 2 farklı veri seti ile görselden duygu tanıma gerçekleştirilmiştir. HOG, LBP ve Gabor gibi öznitelikler çıkarılarak SVM, MLP, Random Forest ve XGBoost algoritmaları ile sınıflandırma yapılmıştır.
 
 
-#### Önemli Not: 
-    - Sayın Hocam projeyi test ederken (test dosyasında) önceden hazırlanmış bir pca kullanılıyor ilgili açıklama test_dosyasının altında bulunmakta
+## Önemli Not: 
+    - Sayın Hocam projedeki en başarlı modelleri test etmek için test_dosyası kullanılıyor ilgili açıklama aşağıda ve dosyanın en üstünde bulunmakta.
+    - Sayın Hocam projeyi test ederken (test_dosyası) önceden hazırlanmış bir pca kullanılıyor ilgili açıklama test_dosyasının altında bulunmakta
 
 
 

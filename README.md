@@ -1,5 +1,5 @@
 # YAP-470_PROJE_Deniz_Ardil_Aydin
-# Farklı Öznitelik Çıkarım Yöntemleriyle Görüntü Sınıflandırma ve Karşılaştırmalı Makine Öğrenmesi Modelleri
+# Farklı Öznitelik Çıkarım Yöntemleriyle Görüntü Sınıflandırma ve Karşılaştırmalı Makine Öğrenmesi Modelleri HOCAM YÖNTEM 2 AÇIKLAMA README DOSYASI CNN KLASÖRÜ İÇİNDE
 
 Bu projede 2 farklı veri seti ile görselden duygu tanıma gerçekleştirilmiştir. HOG, LBP ve Gabor gibi öznitelikler çıkarılarak SVM, MLP, Random Forest ve XGBoost algoritmaları ile sınıflandırma yapılmıştır.
 
